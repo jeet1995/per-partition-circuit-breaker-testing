@@ -1,0 +1,13 @@
+[
+  {
+    "region": "East US",
+    "feedRanges": [
+      "eyJSYW5nZSI6eyJtaW4iOiIwIiwibWF4IjoiMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkYifX0KCgo="
+    ],
+    "errorType": "GONE",
+    "isServerError": true,
+    "connectionType": "DIRECT",
+    "faultInjectionDuration": "PT35S",
+    "delay": "-infinite"
+  }
+]

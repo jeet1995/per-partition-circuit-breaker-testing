@@ -1,0 +1,13 @@
+[
+  {
+    "region": "East US",
+    "feedRanges": [
+      "eyJSYW5nZSI6eyJtaW4iOiIwIiwibWF4IjoiMEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkYifX0KCgo="
+    ],
+    "errorType": "SERVICE_UNAVAILABLE",
+    "isServerError": true,
+    "connectionType": "DIRECT",
+    "faultInjectionDuration": "PT15S",
+    "delay": "-infinite"
+  }
+]
